@@ -1,0 +1,9 @@
+name = "repo-iq-engine-portal-project"
+compatibility_date = "2025-11-11"
+
+[assets]
+directory = "."
+exclude = ["README.md", "wrangler.toml", ".git", ".gitignore"]
+
+[[assets.bindings]]
+name = "ASSETS"
